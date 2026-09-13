@@ -161,7 +161,7 @@ class BootScene extends Phaser.Scene {
       "Fus Ro DASH!",
       "Loading Rage Cannon",
       "Counting to 1337",
-      "It's all in the timing",
+      "tung shaur",
       "Fake spikes are fake",
       "Spikes... OF DOOM!",
       "Why don't you go outside?",
