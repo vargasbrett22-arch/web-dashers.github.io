@@ -142,7 +142,7 @@ class BootScene extends Phaser.Scene {
       "Looking for pixels",
       "Loading awesome soundtracks...",
       "What if the spikes are the good guys?",
-      "Pro tip: Jump",
+      "micah is gay",
       "Does anyone even read this?",
       "Collecting scrap metal",
       "Waiting for planets to align",
