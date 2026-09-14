@@ -125,21 +125,19 @@ window.allLevels = [
         "level_21",
         ["RobTop", "MDK"]
     ],
-    /* Disabled Levels Below */
-    /*
     [
         "dash",
-        "Dash",
+        "brett piece of trash",
         "level_22",
         ["RobTop", "MDK"]
     ],
-    */
     [
         "nine_circles",
         "Nine Circles",
         "level_4284013",
         ["Zobros", "Rukkus"]
     ]
+    /* Disabled Levels Below */
     /*
     ,[
         "every_end",
