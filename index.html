@@ -62,7 +62,13 @@
                 if (typeof url !== "string") {
                     return nativeFetch(input, init);
                 }
-            var oldHost = matchingHost(url);
+
+                // Force local loading for Nine Circles offline
+                if (url.indexOf("4284013") !== -1) {
+                    return nativeFetch("assets/levels/level_4284013.txt", init);
+                }
+
+                var oldHost = matchingHost(url);
                 if (!oldHost) {
                     return nativeFetch(input, init);
                 }
