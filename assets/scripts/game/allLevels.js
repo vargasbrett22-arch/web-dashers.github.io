@@ -126,12 +126,6 @@ window.allLevels = [
         ["RobTop", "MDK"]
     ],
     [
-        "dash",
-        "Dash",
-        "level_22",
-        ["RobTop", "MDK"]
-    ],
-    [
         "nine_circles",
         "Nine Circles",
         "level_4284013",
@@ -142,10 +136,22 @@ window.allLevels = [
         "The Nightmare",
         "level_5703070",
         ["Jax", "Step"]
+    ],
+    [
+        "brett_piece_of_garagbe",
+        "Brett Piece of Garagbe",
+        "level_6767",
+        ["Brett", "F-777"]
     ]
     /* Disabled Levels Below */
     /*
     ,[
+        "dash",
+        "Dash",
+        "level_22",
+        ["RobTop", "MDK"]
+    ],
+    [
         "every_end",
         "Every End",
         "level_99",
