@@ -126,16 +126,22 @@ window.allLevels = [
         ["RobTop", "MDK"]
     ],
     [
-        "Brett_piece_of_trash",
-        "brett piece of trash",
+        "dash",
+        "Dash",
         "level_22",
-        ["Brett", "bike"]
+        ["RobTop", "MDK"]
     ],
     [
         "nine_circles",
         "Nine Circles",
         "level_4284013",
         ["Zobros", "Rukkus"]
+    ],
+    [
+        "the_nightmare",
+        "The Nightmare",
+        "level_5703070",
+        ["Jax", "Step"]
     ]
     /* Disabled Levels Below */
     /*
@@ -150,12 +156,6 @@ window.allLevels = [
         "Bloodbath",
         "level_100",
         ["Riot", "Dimrain47"]
-    ],
-    [
-        "the_nightmare",
-        "The Nightmare",
-        "level_5703070",
-        ["Jax", "Step"]
     ],
     [
         "override",
