@@ -126,8 +126,8 @@ window.allLevels = [
         ["RobTop", "MDK"]
     ],
     [
-        "dash",
-        "brett piece of trash",
+        "brett_piece_of_trash",
+        "Brett_piece_of_trash",
         "level_22",
         ["RobTop", "MDK"]
     ],
