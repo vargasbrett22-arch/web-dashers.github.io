@@ -144,8 +144,8 @@ window.allLevels = [
         ["morgpate", "ammodus"]
     ],
     [
-        "amethyst_song_test",
-        "Amethyst Song Test",
+        "i_dervesecthis_delon",
+        "i dervesecthis delon",
         "level_5555",
         ["Creator", "Artist"]
     ]
