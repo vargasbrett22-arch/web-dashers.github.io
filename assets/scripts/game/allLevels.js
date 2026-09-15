@@ -142,6 +142,12 @@ window.allLevels = [
         "Song Test",
         "level_6767",
         ["morgpate", "ammodus"]
+    ],
+    [
+        "amethyst_song_test",
+        "Amethyst Song Test",
+        "level_5555",
+        ["Creator", "Artist"]
     ]
     /* Disabled Levels Below */
     /*
