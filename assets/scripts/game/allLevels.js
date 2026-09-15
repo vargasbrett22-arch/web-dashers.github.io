@@ -138,7 +138,7 @@ window.allLevels = [
         ["Jax", "Step"]
     ],
     [
-        "Song_test",
+        "song_test",
         "Song Test",
         "level_6767",
         ["morgpate", "ammodus"]
