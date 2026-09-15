@@ -141,7 +141,7 @@ window.allLevels = [
         "its_verity",
         "Its Verity",
         "level_6767",
-        ["Brett", "F-777"]
+        ["morgpate", "ammodus"]
     ]
     /* Disabled Levels Below */
     /*
