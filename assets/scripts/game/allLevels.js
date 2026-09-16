@@ -139,7 +139,7 @@ window.allLevels = [
     ],
     [
         "jackson_web_dashers",
-        "jackson web dashers",
+        "jackson Web Dashers",
         "level_2121",
         ["sirmircowave", "MindCap"]
     ],
