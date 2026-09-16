@@ -1,9 +1,9 @@
 window.allLevels = [
     [
-        "stereo_madness", // internal level name
-        "Stereo Madness", // proper level name
-        "level_1",        // level id in assets/levels
-        ["RobTop", "Forever Bound"]   // person who made the level, person who made the song
+        "stereo_madness",
+        "Stereo Madness",
+        "level_1",
+        ["RobTop", "Forever Bound"]
     ],
     [
         "back_on_track",
@@ -33,7 +33,7 @@ window.allLevels = [
         "cant_let_go",
         "Cant Let Go",
         "level_6",
-        ["RobTop", "DJVI"] 
+        ["RobTop", "DJVI"]
     ],
     [
         "jumper",
@@ -57,19 +57,19 @@ window.allLevels = [
         "xstep",
         "xStep",
         "level_10",
-        ["RobTop", "DJVI"] 
+        ["RobTop", "DJVI"]
     ],
     [
         "clutterfunk",
         "Clutterfunk",
         "level_11",
-        ["RobTop", "Waterflame"] 
+        ["RobTop", "Waterflame"]
     ],
     [
         "theory_of_everything",
         "Theory Of Everything",
         "level_12",
-        ["RobTop", "DJ-Nate"] 
+        ["RobTop", "DJ-Nate"]
     ],
     [
         "electroman_adventures",
@@ -81,43 +81,43 @@ window.allLevels = [
         "clubstep",
         "Clubstep",
         "level_14",
-        ["RobTop", "DJ-Nate"] 
+        ["RobTop", "DJ-Nate"]
     ],
     [
         "electrodynamix",
         "Electrodynamix",
         "level_15",
-        ["RobTop", "DJ-Nate"] 
+        ["RobTop", "DJ-Nate"]
     ],
     [
         "hexagon_force",
         "Hexagon Force",
         "level_16",
-        ["RobTop", "Waterflame"] 
+        ["RobTop", "Waterflame"]
     ],
     [
         "blast_processing",
         "Blast Processing",
         "level_17",
-        ["RobTop", "Waterflame"] 
+        ["RobTop", "Waterflame"]
     ],
     [
         "theory_of_everything_2",
         "Theory Of Everything 2",
         "level_18",
-        ["RobTop", "DJ-Nate"] 
+        ["RobTop", "DJ-Nate"]
     ],
     [
         "geometrical_dominator",
         "Geometrical Dominator",
         "level_19",
-        ["RobTop", "Waterflame"] 
+        ["RobTop", "Waterflame"]
     ],
     [
         "deadlocked",
         "Deadlocked",
         "level_20",
-        ["RobTop", "F-777"] 
+        ["RobTop", "F-777"]
     ],
     [
         "fingerdash",
@@ -148,7 +148,14 @@ window.allLevels = [
         "I Dervesecthis Delon",
         "level_5555",
         ["Creator", "Artist"]
+    ],
+    [
+        "sonion_wave_challenge",
+        "Sonion Wave Challenge",
+        "level_1234",
+        ["sirmircowave", "F-777"]
     ]
+
     /* Disabled Levels Below */
     /*
     ,[
