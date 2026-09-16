@@ -145,7 +145,7 @@ window.allLevels = [
     ],
     [
         "i_dervesecthis_delon",
-        "i dervesecthis delon",
+        "I Dervesecthis Delon",
         "level_5555",
         ["Creator", "Artist"]
     ]
