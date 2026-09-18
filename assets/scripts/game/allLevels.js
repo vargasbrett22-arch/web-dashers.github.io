@@ -1,6 +1,3 @@
-Absolutely — here’s the **full updated code** with **Every End** added to the active levels:
-
-```
 window.allLevels = [
     [
         "stereo_madness",
@@ -217,6 +214,3 @@ window.allLevels = [
     ]
     */
 ];
-```
-
- **Every End is now active** and will appear alongside the other active levels.
