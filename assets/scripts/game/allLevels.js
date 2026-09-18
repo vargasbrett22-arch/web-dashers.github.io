@@ -154,6 +154,12 @@ window.allLevels = [
         "Sonion Wave Challenge",
         "level_1234",
         ["sirmircowave", "F-777"]
+    ],
+    [
+        "bretts_stalemate",
+        "Bretts Stalemate",
+        "level_3434",
+        ["Creator", "Artist"]
     ]
 
     /* Disabled Levels Below */
