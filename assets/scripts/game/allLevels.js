@@ -1,3 +1,6 @@
+Absolutely — here’s the **full updated code** with **Every End** added to the active levels:
+
+```
 window.allLevels = [
     [
         "stereo_madness",
@@ -160,6 +163,12 @@ window.allLevels = [
         "Bretts Stalemate",
         "level_3434",
         ["Creator", "Artist"]
+    ],
+    [
+        "every_end",
+        "Every End",
+        "level_99",
+        ["MindCap", "Dimrain47"]
     ]
 
     /* Disabled Levels Below */
@@ -169,12 +178,6 @@ window.allLevels = [
         "Dash",
         "level_22",
         ["RobTop", "MDK"]
-    ],
-    [
-        "every_end",
-        "Every End",
-        "level_99",
-        ["MindCap", "Dimrain47"]
     ],
     [
         "bloodbath",
@@ -214,3 +217,6 @@ window.allLevels = [
     ]
     */
 ];
+```
+
+ **Every End is now active** and will appear alongside the other active levels.
