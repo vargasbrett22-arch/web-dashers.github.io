@@ -126,6 +126,12 @@ window.allLevels = [
         ["RobTop", "MDK"]
     ],
     [
+        "windy_landscape",
+        "Windy Landscape",
+        "level_060414",
+        ["Creator", "Artist"]
+    ],
+    [
         "nine_circles",
         "Nine Circles",
         "level_4284013",
