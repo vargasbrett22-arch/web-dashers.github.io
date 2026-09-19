@@ -166,9 +166,8 @@ window.allLevels = [
         "Every End",
         "level_99",
         ["MindCap", "Dimrain47"]
-    ],
-    [
-        
+    ]
+
     /* Disabled Levels Below */
     /*
     ,[
