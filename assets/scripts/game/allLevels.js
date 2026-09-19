@@ -168,8 +168,7 @@ window.allLevels = [
         ["MindCap", "Dimrain47"]
     ],
     [
-    
-
+        
     /* Disabled Levels Below */
     /*
     ,[
